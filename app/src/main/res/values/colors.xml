@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="Selected">#E7E0FB</color>
+    <color name="Disable">#FFF</color>
+    <color name="Hover">#F5F5F5</color>
+    <color name="Focused">#EBEBEB</color>
+    <color name="Pressed">#D6D6D6</color>
+
+</resources>
